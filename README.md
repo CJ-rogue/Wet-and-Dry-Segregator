@@ -1,9 +1,8 @@
 # Wet and Dry Segregator Arduino Project
-It automates waste segregation based on moisture content and proximity, enhancing efficiency in waste management.
-
 Tinkercad: [https://www.tinkercad.com/things/jFRI0uPLUwK-wet-and-dry-segregator](https://www.tinkercad.com/things/jFRI0uPLUwK-wet-and-dry-segregator)
 
 Youtube: 
+
 
 ![image](https://github.com/CJ-rogue/Wet-and-Dry-Segregator/assets/137157404/80882d67-fc29-403b-93cc-7d3e5e1ec662)
 
