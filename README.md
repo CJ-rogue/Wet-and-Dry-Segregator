@@ -1,10 +1,11 @@
-# Wet and Dry Segregator Arduino Project
+![image](https://github.com/CJ-rogue/Wet-and-Dry-Segregator/assets/137157404/289a4b70-7080-4199-a4f9-1351a77db8e4)# Wet and Dry Segregator Arduino Project
 Tinkercad: [https://www.tinkercad.com/things/jFRI0uPLUwK-wet-and-dry-segregator](https://www.tinkercad.com/things/jFRI0uPLUwK-wet-and-dry-segregator)
 
 Youtube: 
 
 
-![image](https://github.com/CJ-rogue/Wet-and-Dry-Segregator/assets/137157404/80882d67-fc29-403b-93cc-7d3e5e1ec662)
+![image](https://github.com/CJ-rogue/Wet-and-Dry-Segregator/assets/137157404/70cebf44-0ad2-41dc-90e0-f2f288bcb1a1)
+
 
 ## Table of Contents:
 1. [Introduction](#introduction)
