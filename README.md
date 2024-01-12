@@ -1,4 +1,5 @@
 # Wet and Dry Trash Segregator Arduino Project
+Youtube:  [https://youtu.be/I5iQZ4ePOz0?si=rTrGp-U73MhPVAnh](https://youtu.be/I5iQZ4ePOz0?si=rTrGp-U73MhPVAnh)
 
 ![image](https://github.com/CJ-rogue/Wet-and-Dry-Segregator/assets/137157404/efc98b60-ec16-4eb8-b313-a83bc8d5fa7e)
 
